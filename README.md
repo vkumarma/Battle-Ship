@@ -1,8 +1,8 @@
 # Battle-Ship
-unix>  ./frigate
-Welcome to Frigate!
-How large should I make the grid? 2
-The minimum grid size is 5... I'll create one that size.
+     unix>  ./frigate
+     Welcome to Frigate!
+     How large should I make the grid? 2
+     The minimum grid size is 5... I'll create one that size.
 
          A B C D E
        +----------
